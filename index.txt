@@ -1,4 +1,1 @@
-touch index.txt
-git add index.txt
-git commit -m "Add empty index.txt file"
-git push
+
